@@ -1,0 +1,38 @@
+<?xml version="1.0"?>
+<Resources>
+	<Fonts>
+		<font name="default"/>
+	</Fonts>
+  
+	<Textures>
+    <texture id="GameBackground" path="textures\gameBackground.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="MainMenuBackground" path="textures\mainMenuBackground.png" group="ShootingRangeGroup" upload="false"/>
+
+    <texture id="StartButton" path="textures\startButton.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="StartButtonOver" path="textures\startButtonOver.png" group="ShootingRangeGroup" upload="false"/>
+
+    <texture id="OkWindow" path="textures\okWindow.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="OkButton" path="textures\okButton.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="OkButtonOver" path="textures\okButtonOver.png" group="ShootingRangeGroup" upload="false"/>
+    
+    <texture id="AngryCannon" path="textures\angryCannon.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="AngryCannonAxis" path="textures\angryCannonAxis.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="AngryCannonSeat" path="textures\angryCannonSeat.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="AngryCannonBottom" path="textures\angryCannonBottom.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="AngryCannonBall" path="textures\angryCannonBall.png" group="ShootingRangeGroup" upload="false"/>
+
+    <texture id="PinkUFO" path="textures\pinkUFO.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="BlueUFO" path="textures\blueUFO.png" group="ShootingRangeGroup" upload="false"/>
+    <texture id="YellowUFO" path="textures\yellowUFO.png" group="ShootingRangeGroup" upload="false"/>
+  </Textures>
+
+  <Sounds group="ShootingRangeGroup">
+    <sample id="Shot"path="Sound\shot.ogg" mode="stream+cache" mix="4" volumeFactor="0.4" pan="-1"/>
+    <sample id="Explosion"path="Sound\explosion.ogg" mode="stream+cache" mix="4" volumeFactor="0.7"pan="-1"/>
+
+    <sample id="ThanksBro"path="Sound\thanksBro.ogg" mode="stream" mix="4" volumeFactor="0.1" pan="-1"/>
+    <sample id="IfYouNeverSayGoodbye"path="Sound\ifYouNeverSayGoodbye.ogg" mode="stream" mix="4" volumeFactor="0.1"pan="-1"/>
+    <sample id="XFilesTheme"path="Sound\xFilesTheme.ogg" mode="stream" mix="4" volumeFactor="0.1" pan="-1"/>
+  </Sounds>
+  
+</Resources>

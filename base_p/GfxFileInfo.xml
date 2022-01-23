@@ -1,0 +1,17 @@
+<root>
+    <File fileName="textures\angryCannon.png" width="128" height="256" origWidth="128" origHeight="256" alphaChannel="true" components="4" />
+    <File fileName="textures\angryCannonAxis.png" width="64" height="64" origWidth="64" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\angryCannonBall.png" width="64" height="64" origWidth="64" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\angryCannonBottom.png" width="32" height="32" origWidth="32" origHeight="32" alphaChannel="true" components="4" />
+    <File fileName="textures\angryCannonSeat.png" width="128" height="128" origWidth="128" origHeight="128" alphaChannel="true" components="4" />
+    <File fileName="textures\blueUFO.png" width="128" height="64" origWidth="128" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\gameBackground.png" width="1024" height="768" origWidth="1024" origHeight="768" alphaChannel="true" components="4" />
+    <File fileName="textures\mainMenuBackground.png" width="1024" height="768" origWidth="1024" origHeight="768" alphaChannel="true" components="4" />
+    <File fileName="textures\okButton.png" width="128" height="64" origWidth="128" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\okButtonOver.png" width="128" height="64" origWidth="128" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\okWindow.png" width="512" height="256" origWidth="512" origHeight="256" alphaChannel="true" components="4" />
+    <File fileName="textures\pinkUFO.png" width="128" height="64" origWidth="128" origHeight="64" alphaChannel="true" components="4" />
+    <File fileName="textures\startButton.png" width="256" height="128" origWidth="256" origHeight="128" alphaChannel="true" components="4" />
+    <File fileName="textures\startButtonOver.png" width="256" height="128" origWidth="256" origHeight="128" alphaChannel="true" components="4" />
+    <File fileName="textures\yellowUFO.png" width="128" height="64" origWidth="128" origHeight="64" alphaChannel="true" components="4" />
+</root>
