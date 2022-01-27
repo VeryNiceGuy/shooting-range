@@ -1,2 +1,2 @@
 # shooting-range
-A little game I made for cocksuckers from Playrix
+A little game I made for guys from Playrix
